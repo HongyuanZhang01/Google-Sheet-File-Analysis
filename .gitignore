@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Custom Safety Rules ---
+credentials.json
+batch_results.csv
+*.pdf

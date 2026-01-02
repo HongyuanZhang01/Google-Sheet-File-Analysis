@@ -36,5 +36,5 @@ You can run the script in two modes:
 **2. Process specific rows:**
 (e.g., analyze only rows 12, 34, and 55): python3 analysis.py row 12 34 55
 
-Output
+## Output
 The results will be saved to batch_results.csv in the same directory.

@@ -33,6 +33,7 @@ You can run the script in two modes:
 
 **1. Process a range of rows:**
 (e.g., analyze rows 5 through 10): python3 analysis.py row-range 5 10
+
 **2. Process specific rows:**
 (e.g., analyze only rows 12, 34, and 55): python3 analysis.py row 12 34 55
 
